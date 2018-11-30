@@ -5,4 +5,4 @@ The cool company that doesn't exist
 This is a test project before I decide to pay for something.
 
 ## Questions?
-Why? Because.
+Why? Because its so easy!
